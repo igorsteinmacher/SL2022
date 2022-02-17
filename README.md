@@ -4,17 +4,21 @@
 
 **Email**: igorfs@utfpr.edu.br
 
-**PAluno**: Quintas-feiras 19:30-21:10
+**PAluno**: Terças-feiras 13:50-15:30
 
-**Aulas**: Terça-feira 19:30-21:10 / Quinta-feira (Assíncrona, mas estarei disponível das 21:20-23:00)
+**Aulas**: Segundas e Terças-feiras 19:30-21:10
 
-**Planejamento das aulas**: [Clique Aqui](outline.md) para ver a agenda: Terças serão síncronas, quintas serão atividades assíncronas
+**Planejamento das aulas**: [Clique Aqui](outline.md) para ver a agenda: 
+* Em geral, teremos aulas ministradas pelo professor às segundas e atividades práticas e apresentações às terças.
+* A primeira parte da disciplina *(até o início de Maio)* contemplará o básico de software livre. 
+* A segunda parte contará com a condução de contribuições para projetos de software livre e (para alunos do mestrado) análise de artigos e comunidades.
+* Na segunda parte da disciplina teremos discussões sobre tópicos quentes na área e apresentação de artigos por alunos (do mestrado).
 
-**SLACK:** Discutam, conversem, criem grupos de estudo, etc. [Clique aqui 👋](https://join.slack.com/t/softwarelivre2021/shared_invite/zt-m44n2h3n-~4K_Q8dXNdxwbcMcKAhrCQ) para acessar o curso 
+**Discord:** Nossa interação será toda via Discord. Vou tentar até conduzir as aulas por lá 🙂
 
 ## Grupos
 
-Quando definir seu par, adicione os nomes aqui na [página de grupos](groups.md). Faça isso [alterando a página](groups.md) e criando um pull request.
+Trabalharemos em **pares** para grande parte dos trabalhos. Quando definir seu par, adicione os nomes aqui na [página de grupos](groups.md). Faça isso [alterando a página](groups.md) e criando um pull request.
 
 ## Referencia
 
