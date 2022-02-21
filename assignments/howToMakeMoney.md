@@ -2,7 +2,7 @@
 
 **TRABALHO EM GRUPO**
 
-**Prazo:**: 14/03/2022 (Quinta) até as 19:00 (texto)
+**Prazo:**: 14/03/2022 (Segunda) antes da aula (até as 19:30)
 
 **Como submeter**: Enviar um email para igorfs@utfpr.edu.br, com assunto "SL2022: Tarefa 1"
 
