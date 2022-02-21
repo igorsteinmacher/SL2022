@@ -1,11 +1,11 @@
 # Atividade: preparação para a contribuição!!!!
 
-* **EM DUPLAS** Se você não tem, dê um jeito e insira suas duplas [no arquivo](../groups.md)
+* **EM GRUPO** Se você não tem, dê um jeito e insira seu nome [no arquivo](../groups.md)
 
-* **Começar em sala e entregar até 25/03** 
+* **Entregar até dia 11/04/2022** O relatório deve ser enviado para igorfs@utfpr.edu.br com o assunto "SL 2022: Tarefa Pre-contrib" até o dia 11/04
 
-1. Responda o seguinte formulário: https://forms.gle/xG4ydRSPxjkiPuYb6
 
+1. Responda o seguinte formulário: https://forms.gle/iQnDPPRcfsSvM4Yh6
 
 2. Analise (manualmente) o processo de como os contribuidores abaixo começaram e evoluíram como colaboradores do software livre,
 com base em suas atividades públicas no GitHub. De acordo com o que você encontrar, diferentes tipos de perguntas serão interessantes de responder, como:
@@ -21,13 +21,11 @@ com base em suas atividades públicas no GitHub. De acordo com o que você encon
 * *Além de escrever o código-fonte, de que outra forma eles contribuem para software livre?*
 * *Eles estiveram envolvidos em algum conflito?*
 
-
 Estou esperando cerca de meia página em formato pdf (fonte 12, Arial, espaçamento simples). 
 No total, o trabalho não deve exceder 2 páginas. Se apropriado, sinta-se à vontade para incluir tabelas com cronogramas.
 
 A parte 1 deve ser feita em sala. A parte 2 deve ser iniciada em sala.
 
-O relatório completo deve ser enviado até o dia 25/03 para meu email com o assunto SL 2021: Tarefa Pre-contrib
 
 Contributors suggested:
 * https://github.com/tobiasdiez
