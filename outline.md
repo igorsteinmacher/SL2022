@@ -22,7 +22,7 @@ Dia             | Conteúdo                                                     
  18/04/22 (Seg) | Atividade de Revisão por pares                                                    | Atividade
  19/04/22 (Ter) | Contribuindo para projetos de Software Livre                                      | Aula Teórica
  25/04/22 (Seg) | Contribuição para projetos SL: condução                                           | Atividade (Projeto)
- 26/04/22 (Ter) | Governança e infraestrutura social de projetos SL                                 | Aula Teórica
+ 26/04/22 (Ter) | GitHub Sponsors                                                                   | Aula Visitante (Christoph Treude)
  02/05/22 (Seg) | Pitch inicial: escolha do projeto e informações básicas sobre a escolha           | Apresentação (TODOS)
  03/05/22 (Ter) | Diversidade em projetos de SL                                                     | Aula visitante (Bianca Trinkenreich)
  09/05/22 (Seg) | Contribuição para projetos SL: condução                                           | Atividade (Projeto)
