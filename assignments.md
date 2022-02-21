@@ -92,4 +92,3 @@ Os alunos devem escrever uma resenha de cada artigo antes da apresentação do s
 _EM GRUPO 🚌_	
 
 Os alunos deverão realizar uma análise de projetos de OSS existentes, com foco em entender como os projetos definem os mecanismos de gerenciamento da comunidade. Os alunos deverão ter ciência da literatura existente (estado da arte) e analisar um conjunto pequeno de projetos (estado da prática, semelhante a um processo de análise de domínio), criticar as políticas, estrutura, documentação e estratégias de integração disponibilizadas pelos projetos. Os alunos deverão escrever um relatório sobre suas descobertas e propor diretrizes sobre como montar os projetos com foco na gestão comunitária.
-
