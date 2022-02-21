@@ -34,5 +34,5 @@ Dia             | Conteúdo                                                     
  21/06/22 (Ter) | Innersourcing                                                                     | Aula teórica/visitante
  27/06/22 (Seg) | Apresentações finais                                                              | Apresentação (TODOS)
  28/06/22 (Ter) | Apresentações finais                                                              | Apresentação (TODOS)
- 04/07/22 (Seg) | Seg oportunidade                                                                  |
- 05/07/22 (Ter) | Seg oportunidade e fechamento da disciplina                                       |
+ 04/07/22 (Seg) | Segunda oportunidade de apresentação ("recuperação")                              |
+ 05/07/22 (Ter) | Segunda oportunidade de apresentação ("recuperação")                              |
