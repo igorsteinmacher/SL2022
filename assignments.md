@@ -8,22 +8,23 @@ Algumas atividades são comuns ao mestrado e graduação (TODOS). Outras são _e
 Algumas entregas tem dias específicos, listados a seguir.
 
 Outras atividades são diárias, ou tem datas a serem definidas pelos alunos. Veja mais detalhes de algumas depois da tabela.
+ Alguns trabalhos são em grupos (🚌) e outros são individuais (🚲).
 
 Dias            | O que?                                                                            | Como?
 ----------------|-----------------------------------------------------------------------------------|--------------------
- 14/03/22 (Seg) | Como montar um negocio baseado em SL                                              | Texto e discussão  (antes e durante)
- 21/03/22 (Seg) | Catedral e o Bazaar                                                               | Leitura, texto, discussão (antes e durante)
- 29/03/22 (Ter) | Atividade Chatbots                                                                | Atividade em sala (durante)
- 04/04/22 (Seg) | Apresentação de Seminários do Mestrado 🎓 (1 de 2)                                | Apresentação alunos mestrado (antes e durante)
- 11/04/22 (Seg) | Criação de projetos SL                                                            | Criação dos projetos (durante e depois)
- 18/04/22 (Seg) | Atividade de Revisão por pares                                                    | Atividade em sala (3 entregas: durante e depois)
- 25/04/22 (Seg) | Contribuição para o Wikipedia                                                     | Entrega pré-aula (antes)
- 02/05/22 (Seg) | Pitch inicial: escolha do projeto e informações básicas sobre a escolha           | Apresentação (antes e durante)
- 16/05/22 (Seg) | Apresentação de modelo arquitetural e planejamento                                | Apresentação (antes e durante)
- 06/06/22 (Seg) | Apresentação de Seminários do Mestrado 🎓 (1 de 2)                                | Apresentação alunos mestrado (antes e durante)
- 27/06/22 (Seg) | Entrega final e apresentações finais (Contribuição Software Livre)                | Apresentação (antes e durante)
- 28/06/22 (Ter) | Entrega final e apresentações finais (Contribuição Software Livre)                | Apresentação (antes e durante)
- 04/07/22 (Seg) | Entrega final dos projetos de mestrado - Análise de comunidades  🎓               | Texto e apresentação (antes e durante)
+ 14/03/22 (Seg) | Como montar um negocio baseado em SL 🚌                                           | Texto📝 e discussão💬 (antes e durante)
+ 21/03/22 (Seg) | Catedral e o Bazaar 🚌                                                            | Leitura📖, texto📝, discussão💬 (antes e durante)
+ 29/03/22 (Ter) | Atividade Chatbots 🚲                                                              | Atividade em sala 💻 (durante)
+ 04/04/22 (Seg) | Apresentação de Seminários do Mestrado 🎓 (1 de 2) 🚲                             | Apresentação alunos mestrado 📝 👨🏽‍🏫 (antes e durante)
+ 11/04/22 (Seg) | Criação de projetos SL 🚌                                                            | Criação dos projeto (durante e depois)
+ 18/04/22 (Seg) | Atividade de Revisão por pares 🚌                                                   | Atividade em sala 💻 (3 entregas: durante e depois)
+ 25/04/22 (Seg) | Contribuição para o Wikipedia 🚲                                                  | Entrega pré-aula 💻 (antes)
+ 02/05/22 (Seg) | Pitch inicial: escolha do projeto e informações básicas sobre a escolha 🚌          | Apresentação 👨🏽‍🏫 (antes e durante)
+ 16/05/22 (Seg) | Apresentação de modelo arquitetural e planejamento 🚌                               | Relatório📝 e apresentação 👨🏽‍🏫  (antes e durante)
+ 06/06/22 (Seg) | Apresentação de Seminários do Mestrado 🎓 (1 de 2) 🚲                              | Apresentação alunos mestrado📝 👨🏽‍🏫  (antes e durante)
+ 27/06/22 (Seg) | Entrega final e apresentações finais (Contribuição Software Livre) 🚌                | Relatório📝 e apresentação 👨🏽‍🏫 (antes e durante)
+ 28/06/22 (Ter) | Entrega final e apresentações finais (Contribuição Software Livre) 🚌                | Relatório📝 e apresentação 👨🏽‍🏫 (antes e durante)
+ 04/07/22 (Seg) | Entrega final dos projetos de mestrado - Análise de comunidades 🎓             | Texto📝 e apresentação 👨🏽‍🏫  (antes e durante)
 
 
 * antes: algumas coisas devem ser feitas antes e possivelmente incluem entregas antes da aula
