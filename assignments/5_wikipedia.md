@@ -1,14 +1,10 @@
 # Contribuição para o Wikipedia
 
-**INDIVIDUAL**
+**TRABALHO INDIVIDUAL**
 
-**Deadline**: 
+**Prazo:**: 25/04/2022 (Segunda) antes da aula (até as 19:30)
 
-**How to submit**: Enviar por email para o professor o link para o artigo e um resumo da descrição
-
-**Value**: 5%
-
-
+**Como submeter**: Enviar um email para igorfs@utfpr.edu.br, com assunto "SL2022: Tarefa Wikipedia". O email deve conter o link para o artigo e um resumo da sua atividade (2 a 5 sentenças)
 
 Cada aluno deverá fazer uma contribuição significativa para um artigo da Wikipedia de sua escolha. Isso o apresentará ao processo de contribuição para uma plataforma de crowdsourcing. Crie uma conta (caso ainda não tenha) e vá em frente. Lute a boa luta.
 
