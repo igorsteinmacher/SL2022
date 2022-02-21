@@ -26,7 +26,7 @@ Dia             | Conteúdo                                                     
  02/05/22 (Seg) | Pitch inicial: escolha do projeto e informações básicas sobre a escolha           | Apresentação (TODOS)
  03/05/22 (Ter) | Diversidade em projetos de SL                                                     | Aula visitante (Bianca Trinkenreich)
  09/05/22 (Seg) | Contribuição para projetos SL: condução                                           | Atividade (Projeto)
- 10/05/22 (Ter) | Governança e infraestrutura social de projetos SL                                 | Aula Teórica
+ 10/05/22 (Ter) | Ecosistemas de desenvolvedores em Software Livre.                                 | Aula visitante (Awdren Fontão)
  16/05/22 (Seg) | Contribuição para projetos SL: APRESENTAÇÃO DO MODELO ARQUITETURAL E PLANEJAMENTO | Apresentação (TODOS)
  17/05/22 (Ter) | Tópico a definir                                                                  | Aula visitante (A DEFINIR)
  23/05/22 (Seg) | VIAGEM (ICSE)                                                                     | Atividade (Projeto)
