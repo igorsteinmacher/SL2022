@@ -77,10 +77,14 @@ Trabalho em várias etapas com foco em fazer com que os alunos tenham contato co
 
 ## APENAS PARA O MESTRADO
 
-### Seminários de pesquisa (Apenas Mestrado 🎓)
+### Seminarios de pesquisa 
+**(Apenas Mestrado 🎓)**
+
 _Individual 🚲_ 
 
 Cada aluno de mestrado deverá apresentar DOIS seminários de pesquisa, discutindo artigos científicos dentro da área de gerenciamento de comunidades de software livre (Community management).
+
+*As apresentações estão agendadas para 04/04/2022 e 06/06/2022*
 
 Os alunos devem escrever uma resenha de cada artigo antes da apresentação do seminário, resumindo o artigo, apontando os pontos centrais relacionados a objetivo, metodologia e resultados. Além disso, deve-se apontar criticamente quais os pontos fracos e potenciais caminhos a serem seguidos. O conteúdo desta resenha deve ser compatível com a apresentação
 
