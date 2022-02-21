@@ -24,6 +24,7 @@ Trabalharemos em **pares** para grande parte dos trabalhos. Quando definir seu p
 
 O livro principal aqui é:
 * FOGEL, Karl. **Producing Open Source Software**. O'Reilly. Available online:  http://producingoss.com (Creative Commons)
+* EGHBAL, Nadia. **Roads and Bridges: The Unseen Labor Behind Our Digital Infrastructure**. Available online: https://www.fordfoundation.org/work/learning/research-reports/roads-and-bridges-the-unseen-labor-behind-our-digital-infrastructure/
 
 ## Filmes bacanas
 * [Revolution OS](http://www.revolution-os.com/) "REVOLUTION OS tells the inside story of the hackers who rebelled against the proprietary software model and Microsoft to create GNU/Linux and the Open Source movement."
