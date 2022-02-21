@@ -1,12 +1,12 @@
 # Como ganhar dinheiro com Software Livre  
 
-**TRABALHO EM DUPLA**
+**TRABALHO EM GRUPO**
 
-**Prazo:**: 04/03/2021 (Quinta) até as 23:59
+**Prazo:**: 14/03/2022 (Quinta) até as 19:00 (texto)
 
-**Como submeter**: Enviar um email para igorfs@utfpr.edu.br, com assunto "SL2021: Tarefa 1"
+**Como submeter**: Enviar um email para igorfs@utfpr.edu.br, com assunto "SL2022: Tarefa 1"
 
-Este trabalho é referente à aula assíncrona de 25/02/2021. Para esse trabalho vocês devem:
+Para esse trabalho vocês devem:
 
 * Buscar referências sobre modelos de negócio e meios de ganhar dinheiro com software livre
 
@@ -20,3 +20,7 @@ Pense no público alvo, nos tipos de serviços oferecidos, nos desafios e nos be
 - Enviar o trabalho em formato PDF, DOC, ou ODT
 - Não esqueça de colocar seu nome no início do documento
 - Não há limite de páginas, mas pense nos itens que foram solicitados (uma página é pouco; dez é muito).
+
+**Em sala**
+Buscaremos ter uma discussão sobre o assunto visando enriquecer o assunto.  
+Podemos discutir escolhas e tentar influenciar e esclarecer detalhes que possam ser de interesse da turma
