@@ -26,7 +26,7 @@ Dias            | O que?                                                        
  06/06/22 (Seg) | [Apresentação de Seminários do Mestrado](#Seminarios-de-pesquisa) 🎓 🚲              | Apresentação alunos mestrado📝 👨🏽‍🏫  (antes e durante)
  27/06/22 (Seg) | [Entrega final e apresentações finais (Contribuição Software Livre)](assignments/8_Final.md) 🚌             | Relatório📝 e apresentação 👨🏽‍🏫 (antes e durante)
  28/06/22 (Ter) | [Entrega final e apresentações finais (Contribuição Software Livre)](assignments/8_Final.md) 🚌            | Relatório📝 e apresentação 👨🏽‍🏫 (antes e durante)
- 04/07/22 (Seg) | Entrega final dos projetos de mestrado - Análise de comunidades 🎓                | Texto📝 e apresentação 👨🏽‍🏫  (antes e durante)
+ 04/07/22 (Seg) | [Entrega final dos projetos de mestrado - Análise de comunidades](#Analise-de-Comunidades-de-Software-Livre) 🎓   | Texto📝 e apresentação 👨🏽‍🏫  (antes e durante)
 
 
 * antes: algumas coisas devem ser feitas antes e possivelmente incluem entregas antes da aula
@@ -45,7 +45,7 @@ Assim que definir a plataforma onde conduzirei os quizzes anunciarei bem aqui!
 _Individual 🚲_ 
 
 Cada aluno deverá fazer uma contribuição significativa para um artigo da Wikipédia de sua escolha. Isso apresentará aos alunos o processo de contribuição para uma plataforma de crowdsourcing. A entrega pode ser um link para a contribuição (se aceita) ou uma breve explicação do motivo pelo qual a contribuição não foi aceita pela comunidade.
-
+<!--
 ### Seminários curtos (TODOS)
 _Individual 🚲_ 
 
@@ -55,7 +55,7 @@ Uma lista de potenciais tópicos é apresentada [aqui](seminarios.md), mas outro
 
 TODOS os alunos deverão apresentar UM seminário individualmente, escolhendo um dia de preferência na agenda provida na [lista de seminários](seminarios.md). Poderão ser apresentados 2 seminários por dia, sendo o limite de apresentações o dia 3 de maio.
 O seminário deve ter duração de 10 a 15 minutos, seguido de perguntas. 
-
+-->
 ### Criação de um Projeto de Software Livre (TODOS)
 _EM GRUPO 🚌_	
 
@@ -88,7 +88,16 @@ Cada aluno de mestrado deverá apresentar DOIS seminários de pesquisa, discutin
 
 Os alunos devem escrever uma resenha de cada artigo antes da apresentação do seminário, resumindo o artigo, apontando os pontos centrais relacionados a objetivo, metodologia e resultados. Além disso, deve-se apontar criticamente quais os pontos fracos e potenciais caminhos a serem seguidos. O conteúdo desta resenha deve ser compatível com a apresentação
 
-### Análise de Comunidades de Software Livre (Apenas Mestrado 🎓)
+### Analise de Comunidades de Software Livre 
+**(Apenas Mestrado 🎓)**
+
 _EM GRUPO 🚌_	
 
 Os alunos deverão realizar uma análise de projetos de OSS existentes, com foco em entender como os projetos definem os mecanismos de gerenciamento da comunidade. Os alunos deverão ter ciência da literatura existente (estado da arte) e analisar um conjunto pequeno de projetos (estado da prática, semelhante a um processo de análise de domínio), criticar as políticas, estrutura, documentação e estratégias de integração disponibilizadas pelos projetos. Os alunos deverão escrever um relatório sobre suas descobertas e propor diretrizes sobre como montar os projetos com foco na gestão comunitária.
+
+Mais detalhes:
+- Ler literatura relacionada a como beneficiar a entrada de novatos, manter uma boa política de retenção, smells de comunidade, saúde e sustentabilidade de projetos;
+- Encontrar boas práticas nessa literatura para guiar sua busca
+- Escolher ao menos 3 projetos no GitHub (que sejam ativos, saudáveis e estejam recebendo contribuições de múltiplos contribuidores) -- diferentes daquele que estão contribuindo.
+- Analisar os projetos do ponto de vista do que a literatura recomenda e documentar o que está de acordo, o que está ruim e propor maneiras de melhorar.
+- Buscar definir um método estruturado e um checklist para analisar de maneira científica
