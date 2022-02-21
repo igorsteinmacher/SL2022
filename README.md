@@ -14,6 +14,8 @@
 * A segunda parte contará com a condução de contribuições para projetos de software livre e (para alunos do mestrado) análise de artigos e comunidades.
 * Na segunda parte da disciplina teremos discussões sobre tópicos quentes na área e apresentação de artigos por alunos (do mestrado).
 
+**Tarefas**: [Clique Aqui](assignments.md) para ver todas as tarefas planejadas para o curso. 
+
 **Discord:** Nossa interação será toda via Discord. Vou tentar até conduzir as aulas por lá 🙂
 
 ## Grupos
