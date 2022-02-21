@@ -1,7 +1,5 @@
 # Pull request e Code review 
 
-**INDIVIDUAL**
-
 **TRABALHO EM GRUPO**
 
 **Prazo:**: SÃO MULTIPLOS (18/04 A 25/04/2022). Mais detalhes em (**Detalhes**)
