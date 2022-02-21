@@ -6,8 +6,6 @@
 
 **Prazo:**: 02/05/2022 (Segunda) antes da aula (até as 19:30) -- COM APRESENTAÇÃO EM SALA
 
-**Como submeter**: Enviar um email para igorfs@utfpr.edu.br, com assunto "SL2022: Tarefa 1"
-
 Os alunos devem apresentar em 3 a 5 minutos o projeto escolhido. A apresentação deve deixar claro:
 - Razões pela escolha do projeto (se for resultado de uma escolha entre muitos, deixar claro o que levou à escolha deste)
 - Descrição sobre o projeto em si
