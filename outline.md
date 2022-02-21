@@ -1,3 +1,8 @@
+Sigam aqui o planejamento das aulas. A regra "geral" (cheia de exceções) é que teremos aula teórica na terça e atividades e discussões focadas nas segundas.
+
+É possível que mudanças aconteçam no decorrer do semestre. FIQUEM LIGADOS.
+
+
 Dia             | Conteúdo                                                                          | Tipo interacão
 ----------------|-----------------------------------------------------------------------------------|--------------------
  07/03/22 (Seg) | Introdução à disciplina.                                                          | Aula Teórica
