@@ -4,10 +4,8 @@
 
 ### (Add more as desired)
 
-* Bots on GitHub
 * Innersourcing
 * CHAOSS project
-* Open Source as a way to teach Software Engineering
 * OpenStack
 * Blockchain and open source
 * Open economics
@@ -19,4 +17,3 @@
 * Crowdsourcing software development
 * bountysource.org
 * utopian.io
-
