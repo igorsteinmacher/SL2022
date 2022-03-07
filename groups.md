@@ -1,6 +1,6 @@
 # Grupos
 
-Adicionem suas duplas:
+Adicionem seus grupos:
 
 ### Grupo 1
 * 
