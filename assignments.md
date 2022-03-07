@@ -8,7 +8,7 @@ Algumas atividades são comuns ao mestrado e graduação (TODOS). Outras são _e
 Algumas entregas tem dias específicos, listados a seguir.
 
 Outras atividades são diárias, ou tem datas a serem definidas pelos alunos. Veja mais detalhes de algumas depois da tabela.
- Alguns trabalhos são em grupos (🚌) e outros são individuais (🚲).
+Alguns trabalhos são em grupos (🚌) e outros são individuais (🚲).
 
 Dias            | O que?                                                                            | Como?
 ----------------|-----------------------------------------------------------------------------------|--------------------
@@ -27,6 +27,7 @@ Dias            | O que?                                                        
  27/06/22 (Seg) | C3. [Entrega final e apresentações finais (Contribuição Software Livre)](assignments/8_Final.md) 🚌             | Relatório📝 e apresentação 👨🏽‍🏫 (antes e durante)
  28/06/22 (Ter) | C3. [Entrega final e apresentações finais (Contribuição Software Livre)](assignments/8_Final.md) 🚌            | Relatório📝 e apresentação 👨🏽‍🏫 (antes e durante)
  04/07/22 (Seg) | M3. [Entrega final dos projetos de mestrado - Análise de comunidades](#Analise-de-Comunidades-de-Software-Livre) 🎓   | Texto📝 e apresentação 👨🏽‍🏫  (antes e durante)
+ SEMANALMENTE.  | Relatório de andamento do projeto (a partir do dia 25/04 até a entrega do relatório final                  | Texto📝 via email todas as semanas
 
 
 * antes: algumas coisas devem ser feitas antes e possivelmente incluem entregas antes da aula
