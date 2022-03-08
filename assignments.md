@@ -87,6 +87,8 @@ Cada aluno de mestrado deverá apresentar DOIS seminários de pesquisa, discutin
 
 *As apresentações estão agendadas para 04/04/2022 e 06/06/2022*
 
+* Deem uma olhada em algumas sugestões de artigos aqui: [artigos](papers.md)
+
 Os alunos devem escrever uma resenha de cada artigo antes da apresentação do seminário, resumindo o artigo, apontando os pontos centrais relacionados a objetivo, metodologia e resultados. Além disso, deve-se apontar criticamente quais os pontos fracos e potenciais caminhos a serem seguidos. O conteúdo desta resenha deve ser compatível com a apresentação
 
 ### Analise de Comunidades de Software Livre 
