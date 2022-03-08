@@ -3,8 +3,8 @@
 Adicionem seus grupos:
 
 ### Grupo 1
-* 
-*
+* Gabriel Leite da Rocha
+* Marrielly Chrystina Martines
 
 ### Grupo 2
 * 
