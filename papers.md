@@ -22,6 +22,8 @@ Here is a initial/live list
 
 * Terrell, J., Kofink, A., Middleton, J., Rainear, C., Murphy-Hill, E., Parnin, C., & Stallings, J. (2017). Gender differences and bias in open source: Pull request acceptance of women versus men. PeerJ Computer Science, 3, e111. Available at https://peerj.com/articles/cs-111/
 
+* P. Sri-iesaranusorn, R. G. Kula and T. Ishio, "Does Code Review Promote Conformance? A Study of OpenStack Patches," 2021 IEEE/ACM 18th International Conference on Mining Software Repositories (MSR), 2021, pp. 444-448, doi: 10.1109/MSR52588.2021.00056.
+
 *  Reid Holmes, Meghan Allen, and Michelle Craig. 2018. Dimensions of experientialism for software engineering education. In Proceedings of the 40th International Conference on Software Engineering: Software Engineering Education and Training (ICSE-SEET '18). ACM, New York, NY, USA, 31-39. DOI: https://doi.org/10.1145/3183377.3183380 
 
 * Kilamo, Terhi, Imed Hammouda, Tommi Mikkonen, and Timo Aaltonen. "From proprietary to open source—Growing an open source ecosystem." Journal of Systems and Software 85, no. 7 (2012): 1467-1478. https://www.sciencedirect.com/science/article/pii/S0164121211001683
@@ -54,3 +56,18 @@ Here is a initial/live list
 
 * Bosu, A., & Sultana, K. Z. (2019, September). Diversity and inclusion in open source software (OSS) projects: Where do we stand?. In 2019 ACM/IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM) (pp. 1-11). IEEE. https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8870179&casa_token=O8Q177JfeBwAAAAA:JO1X8YzxkCKJCuWzD9HPIO9W3T_EVAUakVhMmXxGUqee_6jaVGk2nDN46rDPGUvKOPvaIaxAjr0&tag=1
 
+* Yaroslav Golubev, Maria Eliseeva, Nikita Povarov, and Timofey Bryksin. 2020. A Study of Potential Code Borrowing and License Violations in Java Projects on GitHub. Proceedings of the 17th International Conference on Mining Software Repositories. Association for Computing Machinery, New York, NY, USA, 54–64. DOI: https://doi.org/10.1145/3379597.3387455
+
+* H. S. Qiu, A. Nolte, A. Brown, A. Serebrenik and B. Vasilescu, "Going Farther Together: The Impact of Social Capital on Sustained Participation in Open Source," 2019 IEEE/ACM 41st International Conference on Software Engineering (ICSE), 2019, pp. 688-699, doi: https://doi.org/10.1109/ICSE.2019.00078.
+
+* A. Alami, M. Leavitt Cohn and A. Wąsowski, "Why Does Code Review Work for Open Source Software Communities?," 2019 IEEE/ACM 41st International Conference on Software Engineering (ICSE), 2019, pp. 1073-1083, doi: https://doi.org/10.1109/ICSE.2019.00111.
+
+* Cassandra Overney, Jens Meinicke, Christian Kästner, and Bogdan Vasilescu. 2020. How to not get rich: an empirical study of donations in open source. In Proceedings of the ACM/IEEE 42nd International Conference on Software Engineering (ICSE '20). Association for Computing Machinery, New York, NY, USA, 1209–1221. DOI: https://doi.org/10.1145/3377811.3380410
+
+* Yuxia Zhang, Minghui Zhou, Klaas-Jan Stol, Jianyu Wu, and Zhi Jin. 2020. How do companies collaborate in open source ecosystems? an empirical study of OpenStack. In Proceedings of the ACM/IEEE 42nd International Conference on Software Engineering (ICSE '20). Association for Computing Machinery, New York, NY, USA, 1196–1208. DOI: https://doi.org/10.1145/3377811.3380376
+
+* E. Dias, P. Meirelles, F. Castor, I. Steinmacher, I. Wiese and G. Pinto, "What Makes a Great Maintainer of Open Source Projects?," 2021 IEEE/ACM 43rd International Conference on Software Engineering (ICSE), 2021, pp. 982-994, doi: https://doi.org/10.1109/ICSE43902.2021.00093.
+
+* T. Dey, A. Karnauch and A. Mockus, "Representation of Developer Expertise in Open Source Software," 2021 IEEE/ACM 43rd International Conference on Software Engineering (ICSE), 2021, pp. 995-1007, doi: https://doi.org/10.1109/ICSE43902.2021.00094.
+
+* Y. Huang, D. Ford and T. Zimmermann, "Leaving My Fingerprints: Motivations and Challenges of Contributing to OSS for Social Good," 2021 IEEE/ACM 43rd International Conference on Software Engineering (ICSE), 2021, pp. 1020-1032, doi: https://doi.org/10.1109/ICSE43902.2021.00096.
