@@ -26,8 +26,10 @@ Adicionem seus grupos:
 
 
 ### Grupo 5
-* 
-*
+* Gabriela Marangoni Radigonda
+* Guilherme Vasco da Silva
+* Juliano Kendyi Shinohara
+* Vinicius Simões Vieira
 
 ### Grupo 6
 * Victor Daniel Manfrini Pires
