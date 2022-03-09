@@ -9,6 +9,7 @@ Adicionem seus grupos:
 ### Grupo 2
 * Mariana Salamoni Francisco
 * Mariana Martins Vargas Prudêncio
+* Maicon Augusto Tibola
 * *OBS: Grupo do mestrado! Se alguém quiser (e ainda couber), pode colar junto!*
 
 ### Grupo 3
