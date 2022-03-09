@@ -7,13 +7,15 @@ Adicionem seus grupos:
 * Marrielly Chrystina Martines
 
 ### Grupo 2
+* Mariana Salamoni Francisco
+* Mariana Martins Vargas Prudêncio
+* *OBS: Grupo do mestrado! Se alguém quiser (e ainda couber), pode colar junto!*
+
+### Grupo 3
+
 * Getúlio Coimbra Regis
 * Gustavo Sengling Favaro
 * Igor Lara de Oliveira
-
-### Grupo 3
-* 
-*
 
 ### Grupo 4
 * 
