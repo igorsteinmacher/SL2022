@@ -18,8 +18,11 @@ Adicionem seus grupos:
 * Igor Lara de Oliveira
 
 ### Grupo 4
-* 
-*
+* Jhonatan Guilherme de Oliveira Cunha
+* Jessé Pires Barbato Rocha
+* Alexandre Aparecido Scrocaro Junior
+* Matheus Patriarca
+
 
 ### Grupo 5
 * 
