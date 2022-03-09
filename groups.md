@@ -26,8 +26,9 @@ Adicionem seus grupos:
 *
 
 ### Grupo 6
-* 
-*
+* Victor Daniel Manfrini Pires
+* Emica Oliveira da Costa
+* Rafael Rampim Soratto
 
 ### Grupo 7
 * 
