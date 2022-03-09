@@ -7,8 +7,9 @@ Adicionem seus grupos:
 * Marrielly Chrystina Martines
 
 ### Grupo 2
-* 
-*
+* Getúlio Coimbra Regis
+* Gustavo Sengling Favaro
+* Igor Lara de Oliveira
 
 ### Grupo 3
 * 
