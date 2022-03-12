@@ -43,5 +43,6 @@ Adicionem seus grupos:
 * Ryan Lazaretti Ramos
 
 ### Grupo 8
-* 
-*
+* Alexandre Andrade
+* Rodrigo Monteiro
+* Grupo de Mestrado, caso necessite, somente adicionar
