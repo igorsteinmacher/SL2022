@@ -6,11 +6,10 @@ Adicionem seus grupos:
 * Gabriel Leite da Rocha
 * Marrielly Chrystina Martines
 
-### Grupo 2
+### Grupo 2 (Grupo do mestrado! Se alguém quiser (e ainda couber), pode colar junto!)
 * Mariana Salamoni Francisco
 * Mariana Martins Vargas Prudêncio
 * Maicon Augusto Tibola
-* *OBS: Grupo do mestrado! Se alguém quiser (e ainda couber), pode colar junto!*
 
 ### Grupo 3
 
@@ -42,7 +41,6 @@ Adicionem seus grupos:
 * Pedro Henrique Bortolucci Klayn
 * Ryan Lazaretti Ramos
 
-### Grupo 8
+### Grupo 8 (Grupo de Mestrado, caso necessite, somente adicionar)
 * Alexandre Andrade
 * Rodrigo Monteiro
-* Grupo de Mestrado, caso necessite, somente adicionar
