@@ -44,3 +44,7 @@ Adicionem seus grupos:
 ### Grupo 8 (Grupo de Mestrado, caso necessite, somente adicionar)
 * Alexandre Andrade
 * Rodrigo Monteiro
+
+### Grupo 9
+* Eduarda Martins 
+* Luis Felipe Dos Santos Medeiros
