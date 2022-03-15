@@ -19,8 +19,8 @@ Dia             | Conteúdo                                                     
  05/04/22 (Ter) | Criação de um projeto Software Livre: com o que me preocupar + licenças           | Aula Teórica
  11/04/22 (Seg) | Apresentação dos projetos criados                                                 | Atividade/Apresentação
  12/04/22 (Ter) | Revisão de Código por pares                                                       | Aula Teórica
- 18/04/22 (Seg) | Atividade de Revisão por pares                                                    | Atividade
- 19/04/22 (Ter) | Contribuindo para projetos de Software Livre                                      | Aula Teórica
+ 18/04/22 (Seg) | Comportamento em Code Review (por Isabella Ferreira)                              | Aula Convidada + Atividade
+ 19/04/22 (Ter) | Contribuição para SL + Atividade de Code Review                                   | Aula Teórica + Atividade
  25/04/22 (Seg) | Contribuição para projetos SL: condução                                           | Atividade (Projeto)
  26/04/22 (Ter) | GitHub Sponsors                                                                   | Aula Visitante (Christoph Treude)
  02/05/22 (Seg) | Pitch inicial: escolha do projeto e informações básicas sobre a escolha           | Apresentação (TODOS)
