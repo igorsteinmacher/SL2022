@@ -16,6 +16,7 @@ Adicionem seus grupos:
 * Getúlio Coimbra Regis
 * Gustavo Sengling Favaro
 * Igor Lara de Oliveira
+* Lucas Henrique Malaquias da Silva Donadi
 
 ### Grupo 4
 * Jhonatan Guilherme de Oliveira Cunha
