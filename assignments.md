@@ -13,7 +13,7 @@ Alguns trabalhos são em grupos (🚌) e outros são individuais (🚲).
 Dias            | O que?                                                                            | Como?
 ----------------|-----------------------------------------------------------------------------------|--------------------
  14/03/22 (Seg) | A1. [Como montar um negocio baseado em SL](assignments/1_howToMakeMoney.md) 🚌          | Texto📝 e discussão💬 (antes e durante)
- 21/03/22 (Seg) | A2. Catedral e o Bazaar](assignments/2_cathbaz.md) 🚌                                  | Leitura 📖, texto📝, discussão💬 (antes e durante)
+ 21/03/22 (Seg) | A2. [Catedral e o Bazaar](assignments/2_cathbaz.md) 🚌                                  | Leitura 📖, texto📝, discussão💬 (antes e durante)
  29/03/22 (Ter) | A3. Atividade Chatbots 🚲                                                             | Atividade em sala 💻 (durante)
  29/03/22 (Ter) | A4. [Survey e analise de perfis de usuários do GitHub](assignments/extra_preActivityEssay.md)  | Texto📝 (depois -- ver 05/04)
  04/04/22 (Seg) | M1. [Apresentação de Seminários do Mestrado](#Seminarios-de-pesquisa) 🎓 🚲  | Apresentação alunos mestrado 📝 👨🏽‍🏫 (antes e durante)
