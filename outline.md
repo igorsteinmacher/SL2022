@@ -9,7 +9,7 @@ Dia             | Conteúdo                                                     
 ----------------|-----------------------------------------------------------------------------------|--------------------
  07/03/22 (Seg) | [Introdução à disciplina.](notes/Lecture_01.pdf)                                  | Aula Teórica
  08/03/22 (Ter) | [Topicos basicos de Software Livre](notes/Lecture_02.pdf)                         | Aula Teórica
- 14/03/22 (Seg) | Como montar um negocio baseado em SL                                              | Trabalho/Discussão
+ 14/03/22 (Seg) | [Como montar um negocio baseado em SL](notes/Lecture_03.pdf)                      | Trabalho/Discussão
  15/03/22 (Ter) | Qual Business Model seria interessante?                                           | Aula Teórica
  21/03/22 (Seg) | Catedral e o Bazaar; diferentes perspectivas relacionadas a software livre        | Leitura Pré-aula/Discussão
  22/03/22 (Ter) | Ferramental e infraestrutura                                                      | Aula Teórica
