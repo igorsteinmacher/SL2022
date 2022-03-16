@@ -45,6 +45,7 @@ Adicionem seus grupos:
 ### Grupo 8 (Grupo de Mestrado, caso necessite, somente adicionar)
 * Alexandre Andrade
 * Rodrigo Monteiro
+* Daniel Weigert Cavagnari
 
 ### Grupo 9
 * Eduarda Martins 
