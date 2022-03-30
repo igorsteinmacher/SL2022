@@ -14,13 +14,12 @@ Dias            | O que?                                                        
 ----------------|-----------------------------------------------------------------------------------|--------------------
  14/03/22 (Seg) | A1. [Como montar um negocio baseado em SL](assignments/1_howToMakeMoney.md) 🚌          | Texto📝 e discussão💬 (antes e durante)
  21/03/22 (Seg) | A2. [Catedral e o Bazaar](assignments/2_cathbaz.md) 🚌                                  | Leitura 📖, texto📝, discussão💬 (antes e durante)
- 29/03/22 (Ter) | A3. Atividade Chatbots 🚲                                                             | Atividade em sala 💻 (durante)
- 29/03/22 (Ter) | A4. [Survey e analise de perfis de usuários do GitHub](assignments/extra_preActivityEssay.md)  | Texto📝 (depois -- ver 05/04)
+ 29/03/22 (Ter) | A3. [Atividade Chatbots](assignments/Xtra_Chatbot.md) 🚌                                | Implementação 💻 (até 04/04)
  04/04/22 (Seg) | M1. [Apresentação de Seminários do Mestrado](#Seminarios-de-pesquisa) 🎓 🚲  | Apresentação alunos mestrado 📝 👨🏽‍🏫 (antes e durante)
- 05/04/22 (Ter) | A5. [Survey e analise de perfis de usuários do GitHub](assignments/extra_preActivityEssay.md)  | Texto📝 
- 11/04/22 (Seg) | A6. [Criação de projetos SL](assignments/3_openYourProject.md) 🚌                     | Criação dos projetos 💻 (durante e depois)
- 18/04/22 (Seg) | A7. [Atividade de Revisão por pares](assignments/4_PRcodeReview.md) 🚌                | Atividade em sala 💻 (3 entregas: durante e depois)
- 25/04/22 (Seg) | A8. [Contribuição para o Wikipedia](assignments/5_wikipedia.md) 🚲                    | Entrega pré-aula 💻 (antes)
+ 11/04/22 (Ter) | A4. [Survey e analise de perfis de usuários do GitHub](assignments/extra_preActivityEssay.md)  | Texto 📝 
+ 12/04/22 (Seg) | A5. [Criação de projetos SL](assignments/3_openYourProject.md) 🚌                     | Criação dos projetos 💻 (durante e depois)
+ 18/04/22 (Seg) | A6. [Atividade de Revisão por pares](assignments/4_PRcodeReview.md) 🚌                | Atividade em sala 💻 (3 entregas: durante e depois)
+ 25/04/22 (Seg) | A7. [Contribuição para o Wikipedia](assignments/5_wikipedia.md) 🚲                    | Entrega pré-aula 💻 (antes)
  02/05/22 (Seg) | C1. [Pitch inicial: escolha do projeto](assignments/6_aboutProject.md) 🚌             | Apresentação 👨🏽‍🏫 (antes e durante)
  16/05/22 (Seg) | C2. [Apresentação de modelo arquitetural](assignments/7_architectSeminar.md) 🚌       | Relatório📝 e apresentação 👨🏽‍🏫  (antes e durante)
  06/06/22 (Seg) | M2. [Apresentação de Seminários do Mestrado](#Seminarios-de-pesquisa) 🎓 🚲              | Apresentação alunos mestrado📝 👨🏽‍🏫  (antes e durante)
