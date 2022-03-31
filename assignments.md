@@ -90,6 +90,8 @@ Cada aluno de mestrado deverá apresentar DOIS seminários de pesquisa, discutin
 
 Os alunos devem escrever uma resenha de cada artigo antes da apresentação do seminário, resumindo o artigo, apontando os pontos centrais relacionados a objetivo, metodologia e resultados. Além disso, deve-se apontar criticamente quais os pontos fracos e potenciais caminhos a serem seguidos. O conteúdo desta resenha deve ser compatível com a apresentação
 
+As apresentações devem ter entre 10 e 15 minutos
+
 ### Analise de Comunidades de Software Livre 
 **(Apenas Mestrado 🎓)**
 
