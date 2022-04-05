@@ -1,6 +1,6 @@
 # Atividade: preparação para a contribuição!!!!
 
-* **EM GRUPO** Se você não tem, dê um jeito e insira seu nome [no arquivo](../groups.md)
+* **EM GRUPO** 
 
 * **Entregar até dia 11/04/2022** O relatório deve ser enviado para igorfs@utfpr.edu.br com o assunto "SL 2022: Tarefa Pre-contrib" até o dia 11/04
 
