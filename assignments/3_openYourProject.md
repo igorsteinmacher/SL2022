@@ -1,10 +1,10 @@
 # Crie seu projeto
 
-# Como ganhar dinheiro com Software Livre  
+# "Criar" um projeto de Software Livre
 
 **TRABALHO EM GRUPO**
 
-**Prazo:**: 18/04/2022 (Segunda) antes da aula (até as 19:30)
+**Prazo:**: 12/04/2022 (Terça)
 
 **Como submeter**: Criar seu projeto como parte da organização UTFPR-SL (Não tem acesso? Mande email pedindo)
 
