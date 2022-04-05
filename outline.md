@@ -12,7 +12,7 @@ Dia             | Conteúdo                                                     
  14/03/22 (Seg) | [Como montar um negocio baseado em SL](notes/Lecture_03.pdf)                      | Trabalho/Discussão
  15/03/22 (Ter) | Qual Business Model seria interessante?                                           | Aula Teórica
  21/03/22 (Seg) | Catedral e o Bazaar; diferentes perspectivas relacionadas a software livre        | Leitura Pré-aula/Discussão
- 22/03/22 (Ter) | [Ferramental e infraestrutura: Nivelamento Git, GitHub, CI](notes/Lecture_04.pdf)                          | Aula Teórica
+ 22/03/22 (Ter) | Ferramental e infraestrutura: Nivelamento Git, GitHub, CI                         | Aula Teórica
  28/03/22 (Seg) | Ferramental e infraestrutura: Bots, chatbots e actions                            | Aula visitante (Mairieli Wessel)
  29/03/22 (Ter) | Ferramental e infraestrutura: Atividade Mairi                                     | Atividade
  04/04/22 (Seg) | Seminários 1 - Mestrado apenas                                                    | Apresentação Alunos Mestrado
