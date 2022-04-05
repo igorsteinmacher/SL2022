@@ -16,8 +16,8 @@ Dia             | Conteúdo                                                     
  28/03/22 (Seg) | Ferramental e infraestrutura: Bots, chatbots e actions                            | Aula visitante (Mairieli Wessel)
  29/03/22 (Ter) | Ferramental e infraestrutura: Atividade Mairi                                     | Atividade
  04/04/22 (Seg) | Seminários 1 - Mestrado apenas                                                    | Apresentação Alunos Mestrado
- 05/04/22 (Ter) | Criação de um projeto Software Livre: com o que me preocupar + licenças           | Aula Teórica
- 11/04/22 (Seg) | Apresentação dos projetos criados                                                 | Atividade/Apresentação
+ 05/04/22 (Ter) | Criação de um projeto Software Livre: com o que me preocupar                      | Aula Teórica
+ 11/04/22 (Seg) | Licenças de Software Livre                                                        | Atividade/Apresentação
  12/04/22 (Ter) | Revisão de Código por pares                                                       | Aula Teórica
  18/04/22 (Seg) | Comportamento em Code Review (por Isabella Ferreira)                              | Aula Convidada + Atividade
  19/04/22 (Ter) | Contribuição para SL + Atividade de Code Review                                   | Aula Teórica + Atividade
