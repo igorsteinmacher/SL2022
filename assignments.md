@@ -9,6 +9,7 @@ Algumas entregas tem dias específicos, listados a seguir.
 
 Outras atividades são diárias, ou tem datas a serem definidas pelos alunos. Veja mais detalhes de algumas depois da tabela.
 Alguns trabalhos são em grupos (🚌) e outros são individuais (🚲).
+<!--18/04/22 (Seg) | A6. [Atividade de Revisão por pares](assignments/4_PRcodeReview.md) 🚌                | Atividade em sala 💻 (3 entregas: durante e depois) -->
 
 Dias            | O que?                                                                            | Como?
 ----------------|-----------------------------------------------------------------------------------|--------------------
@@ -18,7 +19,6 @@ Dias            | O que?                                                        
  04/04/22 (Seg) | M1. [Apresentação de Seminários do Mestrado](#Seminarios-de-pesquisa) 🎓 🚲  | Apresentação alunos mestrado 📝 👨🏽‍🏫 (antes e durante)
  11/04/22 (Seg) | A4. [Survey e analise de perfis de usuários do GitHub](assignments/extra_preActivityEssay.md)  | Texto 📝 
  12/04/22 (Ter) | A5. [Criação de projetos SL](assignments/3_openYourProject.md) 🚌                     | Criação dos projetos 💻 (durante e depois)
- 18/04/22 (Seg) | A6. [Atividade de Revisão por pares](assignments/4_PRcodeReview.md) 🚌                | Atividade em sala 💻 (3 entregas: durante e depois)
  25/04/22 (Seg) | A7. [Contribuição para o Wikipedia](assignments/5_wikipedia.md) 🚲                    | Entrega pré-aula 💻 (antes)
  02/05/22 (Seg) | C1. [Pitch inicial: escolha do projeto](assignments/6_aboutProject.md) 🚌             | Apresentação 👨🏽‍🏫 (antes e durante)
  16/05/22 (Seg) | C2. [Apresentação de modelo arquitetural](assignments/7_architectSeminar.md) 🚌       | Relatório📝 e apresentação 👨🏽‍🏫  (antes e durante)
