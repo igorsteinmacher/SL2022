@@ -21,7 +21,7 @@ Dia             | Conteúdo                                                     
  11/04/22 (Seg) | [Licenças de Software Livre](notes/Lecture_06.pdf)                                | Atividade/Apresentação
  12/04/22 (Ter) | [Revisão de Código por pares](notes/Lecture_07.pdf)                               | Aula Teórica
  18/04/22 (Seg) | Comportamento em Code Review (por Isabella Ferreira)                              | Aula Convidada
- 19/04/22 (Ter) | Contribuição para SL + Atividade de Code Review                                   | Aula Teórica + Atividade
+ 19/04/22 (Ter) | Contribuição para SL                                                              | Aula Teórica
  25/04/22 (Seg) | Contribuição para projetos SL: condução                                           | Atividade (Projeto)
  26/04/22 (Ter) | GitHub Sponsors                                                                   | Aula Visitante (Christoph Treude)
  02/05/22 (Seg) | Pitch inicial: escolha do projeto e informações básicas sobre a escolha           | Apresentação (TODOS)
