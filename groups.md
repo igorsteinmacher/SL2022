@@ -5,6 +5,7 @@ Adicionem seus grupos:
 ### Grupo 1
 * Gabriel Leite da Rocha
 * Marrielly Chrystina Martines
+	* Repositório: https://github.com/UTFPR-SL/bookmark
 
 ### Grupo 2 (Grupo do mestrado! Se alguém quiser (e ainda couber), pode colar junto!)
 * Mariana Salamoni Francisco
