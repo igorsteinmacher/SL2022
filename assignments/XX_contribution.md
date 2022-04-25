@@ -8,9 +8,19 @@ Solicita-se que você faça uma contribuição significativa para um projeto de 
 
 O primeiro passo para isso é escolher um projeto. Há alguns deles que eu prevejo que podem acomodar alguns de vocês:
 
-* [Jabref](http://www.github.com/Jabref/Jabref) - Gerenciador de citações. Desenvolvido principalmente em Java. O pessoal da JabRef está entusiasmado com a aplicação do MVVM em seus projetos. É um bom aprendizado e, com certeza, ajudará a comunidade. Use o wiki como ponto de partida para o desenvolvimento. Além disso, há um exemplo das coisas JavaFX em relação ao padrão MVVM. Aqui [https://github.com/JabRef/jabref/wiki/Code---JavaFX]. A comunidade está ciente de que você está trabalhando neste curso.
+* [Jabref](http://www.github.com/Jabref/Jabref) - Gerenciador de citações. Desenvolvido principalmente em Java. O pessoal da JabRef está entusiasmado com a aplicação do MVVM em seus projetos. É um bom aprendizado e, com certeza, ajudará a comunidade. Use o wiki como ponto de partida para o desenvolvimento. Além disso, há um exemplo das coisas JavaFX em relação ao padrão MVVM. Aqui [https://github.com/JabRef/jabref/wiki/Code---JavaFX]. A comunidade está ciente de que você está trabalhando neste curso.  Tenho contato com o Mantenedor.
 
-* [Querido Diario](https://github.com/okfn-brasil/querido-diario) -  O projeto Querido Diário propõe utilizar inteligência artificial para classificar, contextualizar e expandir a informação contida nos diários oficiais municipais brasileiros, tornando-os disponíveis em uma plataforma que permitirá sua visualização em formato aberto e amigável. Desenvolvido em Python (Scrapy) é um ótimo projeto com finalidade de ajudar a sociedade.
+* [FreeCAD](https://github.com/FreeCAD/FreeCAD) -  O FreeCAD é uma ferramenta de modelagem 3D paramétrica feita principalmente para projetar objetos da vida real de qualquer tamanho. A modelagem paramétrica permite que você modifique facilmente seu projeto voltando ao histórico de seu modelo e alterando seus parâmetros. Desenvolvido em Python e C++, é um ótimo desafio se quer se aventurar no mundo do CAD.
+
+* Mundo Python científico: Uma das pessoas responsáveis pela construção e manutenção da comunidade que inclui numpy, SciPy, matplotlib, pandas e jupyter (talvez scikit-learn) recebeu muito bem a ideia. Ela falou que o conhecimento inclui python/C são ótimos. Mas... eles tem issues em CI, documentação, até design, acessibilidade: "então vai do interesse!" (disse ela). A pessoa que contatei disse que há a possiblidade de mentoria se houver um grupo interessado.
+
+* [BabiaXR](https://gitlab.com/babiaxr). Este projeto é um toolset para visualização de dados 3D/VirtualReality no navegador. [Site](https://babiaxr.gitlab.io). É principalmente desenvolvido em JavaScript e baseado e "aframevr" (e "threejs" atrás das cortinas), funciona no navegador, pode ser usado em dispositivos desktop, mobile ou XR. É possível contatar o professor responsável.
+
+Outros projetos (sem resposta de mantenedores):
+
+* [Qiime2](https://github.com/qiime2/qiime2): projeto relacionado a microbiologia, é uma plataforma de análise de dados de microbiomas baseado em plugins. 
+
+
 
 Ao final do semestre, espera-se que você tenha uma ou mais contribuições enviadas, avaliadas por pares (em sala de aula), revisadas pelos membros do projeto e aceitas. Aqui estão as etapas gerais e datas (mais detalhes em breve).
 
