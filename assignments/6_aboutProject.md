@@ -1,6 +1,6 @@
 # Pitch inicial
 
-*É parte da [grande contribuição](assignments/XX_contribution.md)*
+*É parte da [grande contribuição](XX_contribution.md)*
 
 **TRABALHO EM GRUPO**
 
