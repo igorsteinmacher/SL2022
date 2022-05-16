@@ -25,8 +25,9 @@ Dias            | O que?                                                        
  06/06/22 (Seg) | M2. [Apresentação de Seminários do Mestrado](#Seminarios-de-pesquisa) 🎓 🚲              | Apresentação alunos mestrado📝 👨🏽‍🏫  (antes e durante)
  27/06/22 (Seg) | C3. [Entrega final e apresentações finais (Contribuição Software Livre)](assignments/8_Final.md) 🚌             | Relatório📝 e apresentação 👨🏽‍🏫 (antes e durante)
  28/06/22 (Ter) | C3. [Entrega final e apresentações finais (Contribuição Software Livre)](assignments/8_Final.md) 🚌            | Relatório📝 e apresentação 👨🏽‍🏫 (antes e durante)
- 04/07/22 (Seg) | M3. [Entrega final dos projetos de mestrado - Análise de comunidades](#Analise-de-Comunidades-de-Software-Livre) 🎓   | Texto📝 e apresentação 👨🏽‍🏫  (antes e durante)
  SEMANALMENTE.  | Relatório de andamento do projeto (a partir do dia 25/04 até a entrega do relatório final                  | Texto📝 via email todas as semanas
+
+<!-- 04/07/22 (Seg) | M3. [Entrega final dos projetos de mestrado - Análise de comunidades](#Analise-de-Comunidades-de-Software-Livre) 🎓   | Texto📝 e apresentação 👨🏽‍🏫  (antes e durante)-->
 
 
 * antes: algumas coisas devem ser feitas antes e possivelmente incluem entregas antes da aula
