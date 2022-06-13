@@ -1,6 +1,6 @@
 **TRABALHO EM GRUPO**
 
-**Prazo:**: 28/06/2022 (Segunda) antes da aula (até as 19:30)
+**Prazo:** 28/06/2022 (Terça) antes da aula (até as 19:30)
 
 **Como submeter**: Enviar um email para igorfs@utfpr.edu.br, com assunto "SL2022: Reatório Final" + APRESENTAÇÃO EM SALA
 
